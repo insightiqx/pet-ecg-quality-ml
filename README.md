@@ -37,9 +37,9 @@ falsos picos.
 
 Este proyecto aplica ML para detectar ECG de baja calidad antes del análisis clínico, permitiendo:
 
-✔ evitar interpretaciones erróneas
-✔ repetir la medición a tiempo
-✔ mejorar flujos de trabajo en clínicas y dispositivos portátiles
+ - evitar interpretaciones erróneas
+ - repetir la medición a tiempo
+ - mejorar flujos de trabajo en clínicas y dispositivos portátiles
 
 2. Datos
 
