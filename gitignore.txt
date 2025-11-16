@@ -1,0 +1,22 @@
+# Entornos
+.venv/
+env/
+venv/
+
+# Datos
+data/raw/*
+data/processed/*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
