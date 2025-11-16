@@ -114,9 +114,9 @@ ColumnTransformer → Scaling/Imputation → OneHotEncoder → RandomForestClass
 
 Se aplicó:
 
-✔ train_test_split estratificado
-✔ Búsqueda de hiperparámetros (RandomizedSearchCV)
-✔ Métricas: Accuracy, F1, ROC-AUC
+ - train_test_split estratificado
+ - Búsqueda de hiperparámetros (RandomizedSearchCV)
+ - Métricas: Accuracy, F1, ROC-AUC
 
 5. Resultados
 Rendimiento final del mejor modelo:
@@ -141,8 +141,8 @@ AUC ≈ 0.89, indicando excelente separabilidad entre ECG buenos y malos.
 
 Para entender qué señales utiliza el modelo, se analizaron:
 
-✔ Feature importance del RandomForest
-✔ Permutation importance (pérdida de AUC al permutar)
+- Feature importance del RandomForest
+- Permutation importance (pérdida de AUC al permutar)
 
 Variables más importantes
 
